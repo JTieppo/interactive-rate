@@ -3,4 +3,6 @@
 <a href="">See in your own device</a>
 
 <img src="/assets/images/desktop-rate.png"></img>
+<img src="/assets/images/mobile-rate.png"></img>
 <img src="/assets/images/desktop-feedback.png"></img>
+<img src="/assets/images/mobile-feedback.png"></img>
