@@ -34,7 +34,9 @@ h5 {
   text-align: center;
   font-size: 18px;
   padding: 0;
-  transition: transform 1.0s; }
+  transition: transform 1.0s;
+  cursor: pointer;
+}
 
 .estrela {
   line-height: 51px;
@@ -75,7 +77,9 @@ h5 {
   border-radius: 20px;
   margin-bottom: 30px;
   font-size: 18px;
-  transition: transform 1.2s; }
+  transition: transform 1.2s;
+  cursor: pointer;
+}
 
 .bot {
   width: 100%;
